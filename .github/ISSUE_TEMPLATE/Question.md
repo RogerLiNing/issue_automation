@@ -1,6 +1,7 @@
 ---
 name: Question
 about: The issue tracker is not for questions. Please ask questions on https://stackoverflow.com/questions/tagged/visual-studio-code.
+title: this is a testing title
 
 ---
 
